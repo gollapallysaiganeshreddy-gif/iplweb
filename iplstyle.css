@@ -129,7 +129,7 @@ border:1px solid black;
 }
 td:hover{
     background-color:blue;
-    transform:scale(1);
+    transform:scale(1.5);
 }
     
 
