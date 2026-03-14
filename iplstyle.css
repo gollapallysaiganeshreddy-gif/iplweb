@@ -127,6 +127,11 @@ th,td{
 padding:12px;
 border:1px solid black;
 }
+td:hover{
+    background-color:blue;
+    transform:scale(1);
+}
+    
 
 /* SCHEDULE */
 
